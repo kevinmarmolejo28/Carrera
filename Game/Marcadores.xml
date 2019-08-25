@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Marcadores>
+  <Jugadores Nombre="kevin">
+    <Minutos>0</Minutos>
+    <Segundos>32</Segundos>
+  </Jugadores>
+  <Jugadores Nombre="AAA">
+    <Minutos>0</Minutos>
+    <Segundos>56</Segundos>
+  </Jugadores>
+  <Jugadores Nombre="AAA">
+    <Minutos>1</Minutos>
+    <Segundos>0</Segundos>
+  </Jugadores>
+</Marcadores>
